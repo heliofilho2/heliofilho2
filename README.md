@@ -1,7 +1,7 @@
 ## Olá, eu sou o Helio Filho 😄
 
-- 🔭 Atualmente faço estágio na Prime Interway
-- 🌱 Estudando Engenharia de Computação na UNIFEI
+- 🔭 Atualmente sou assistente de Sistemas na Prime Interway
+- 🌱 Estudando Engenharia de Computação 
 - 📫 E-mail para contato: helio-ferreira-filho@hotmail.com
 
 
