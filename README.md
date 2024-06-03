@@ -1,8 +1,8 @@
 ## Olá, eu sou o Helio Filho 😄
 
-- 🔭 Atualmente sou assistente de Sistemas na Prime Interway
-- 🌱 Estudando Engenharia de Computação 
-- 📫 E-mail para contato: helio-ferreira-filho@hotmail.com
+- 🔭 Atualmente sou Analista de Sistemas Jr. na Prime Interway
+- 🌱 Formado em Engenharia de Computação 
+- 📫 E-mail para contato: helio.filho.1997@outlook.com
 
 
   
